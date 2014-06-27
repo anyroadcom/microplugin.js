@@ -1,0 +1,17 @@
+{
+	"name": "microplugin",
+	"keywords": ["extensibility","plugins","architecture","require","dependencies"],
+	"description": "A lightweight plugin / dependency system for javascript libraries.",
+	"version": "0.0.3",
+	"license": "Apache License, Version 2.0",
+	"readmeFilename": "README.md",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/anyroadcom/microplugin.js.git"
+	},
+	"main": "microplugin.js",
+  "scripts": [
+    "microplugin.js"
+	],
+	"dependencies": {}
+}
